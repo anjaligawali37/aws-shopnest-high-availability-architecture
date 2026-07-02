@@ -41,6 +41,7 @@ The architecture consists of:
 
 Architecture diagram:
 
+![Architecture](architecture/01. AWS Architecture Diagram.png)
 📂 **architecture/01. AWS Architecture Diagram.png**
 
 ---
