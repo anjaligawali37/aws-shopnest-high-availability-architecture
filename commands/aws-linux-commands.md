@@ -18,6 +18,7 @@ ssh -i aws_login.pem ubuntu@51.xx.xx.xx
 
 ---
 
+
 # 2. Connect from Bastion Host to Private Web Server 1
 
 ```bash
