@@ -226,7 +226,6 @@ Complete implementation screenshots are available inside the **screenshots/** fo
 - CloudWatch Monitoring
 - CI/CD Pipeline using GitHub Actions
 - Terraform
-
 ---
 
 # 👩‍💻 Author
