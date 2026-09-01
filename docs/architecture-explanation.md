@@ -3,7 +3,6 @@
 
 ## Overview
 
-
 This project demonstrates a production-inspired AWS High Availability architecture for a fictional e-commerce platform called **ShopNest**.
 
 The objective was to build a secure, scalable, and fault-tolerant infrastructure where web applications remain available even if one server becomes unavailable.
