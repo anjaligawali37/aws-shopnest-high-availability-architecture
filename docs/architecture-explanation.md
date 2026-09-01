@@ -1,5 +1,6 @@
 # ShopNest High Availability Architecture - Detailed Explanation
 
+
 ## Overview
 
 This project demonstrates a production-inspired AWS High Availability architecture for a fictional e-commerce platform called **ShopNest**.
